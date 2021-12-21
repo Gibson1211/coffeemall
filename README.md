@@ -40,5 +40,5 @@ https://github.com/Gibson1211/coffeemall/files/7750432/coffeemall_structure_kgm_
 ![coffeemall10](https://user-images.githubusercontent.com/91642370/146887228-74419ba1-f023-4155-8cf4-cba6bde01955.PNG)
 ![coffeemall12](https://user-images.githubusercontent.com/91642370/146887238-8f41052e-4a68-48fe-92aa-799270e5aa65.PNG)
 ![coffeemall13](https://user-images.githubusercontent.com/91642370/146887242-4fc03425-1211-4489-ba80-d9a2a0318833.PNG)
-
+![coffeemall14](https://user-images.githubusercontent.com/91642370/146889582-dfbc035a-527d-4e17-98a8-848643b44e1d.png)
 
