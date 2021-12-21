@@ -28,6 +28,7 @@
 
 ![coffeemall01](https://user-images.githubusercontent.com/91642370/146887141-77715bbe-f5ba-4a2e-a8c4-9155076d1ec3.PNG)
 ![coffeemall02](https://user-images.githubusercontent.com/91642370/146887169-462af0ac-2c93-44fc-9d1a-c0452e0631d0.PNG)
+![coffeemall11](https://user-images.githubusercontent.com/91642370/146887231-81016bc8-b14e-4f47-9b08-32b86972c77a.PNG)
 ![coffeemall03](https://user-images.githubusercontent.com/91642370/146887181-c4decbbd-a9e4-483a-a143-740d5a312e39.PNG)
 ![coffeemall04](https://user-images.githubusercontent.com/91642370/146887187-12ed8d3a-ceb9-49d8-8608-46285a602175.PNG)
 ![coffeemall05](https://user-images.githubusercontent.com/91642370/146887195-67e1abba-20eb-48cc-a646-e75809e488f3.PNG)
@@ -36,8 +37,7 @@
 ![coffeemall08](https://user-images.githubusercontent.com/91642370/146887215-2db86ba4-b033-45d0-a816-ed5d2c708c13.PNG)
 ![coffeemall09](https://user-images.githubusercontent.com/91642370/146887220-a2de1944-6a9c-49c3-906c-8bf7d38f5709.PNG)
 ![coffeemall10](https://user-images.githubusercontent.com/91642370/146887228-74419ba1-f023-4155-8cf4-cba6bde01955.PNG)
-![coffeemall11](https://user-images.githubusercontent.com/91642370/146887231-81016bc8-b14e-4f47-9b08-32b86972c77a.PNG)
 ![coffeemall12](https://user-images.githubusercontent.com/91642370/146887238-8f41052e-4a68-48fe-92aa-799270e5aa65.PNG)
 ![coffeemall13](https://user-images.githubusercontent.com/91642370/146887242-4fc03425-1211-4489-ba80-d9a2a0318833.PNG)
 
-(https://github.com/Gibson1211/coffeemall/files/7750323/coffeemall_structure_kgm_20211221.pptx)
+
