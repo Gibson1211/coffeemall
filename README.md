@@ -25,7 +25,7 @@
   ###
   B. 관리자페이지, 상품리스트(수정, 삭제), 신규상품 등록
  
-[coffeemall_structure_kgm_20211221.pptx](https://github.com/Gibson1211/coffeemall/files/7750432/coffeemall_structure_kgm_20211221.pptx)
+https://github.com/Gibson1211/coffeemall/files/7750432/coffeemall_structure_kgm_20211221.pptx
 
 ![coffeemall01](https://user-images.githubusercontent.com/91642370/146887141-77715bbe-f5ba-4a2e-a8c4-9155076d1ec3.PNG)
 ![coffeemall02](https://user-images.githubusercontent.com/91642370/146887169-462af0ac-2c93-44fc-9d1a-c0452e0631d0.PNG)
